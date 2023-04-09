@@ -8,6 +8,6 @@ exports.getUniversities = async function (req, res) {
         return response.data;
     } catch (err) {
         console.error(err);
-        res.status(500).json({ message: 'Internal server error' });
+        return null;
     }
 }

@@ -1,0 +1,362 @@
+[
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.archi.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole Nationale d'Architecture",
+        "alpha_two_code": "MA",
+        "domains": [
+            "archi.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.aui.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Al Akhawayn University",
+        "alpha_two_code": "MA",
+        "domains": [
+            "aui.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.edhec.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole des Hautes Etudes en Gestion Informatique et Communication",
+        "alpha_two_code": "MA",
+        "domains": [
+            "edhec.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.emi.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole Mohammadia d'Ing\u00e9nieurs",
+        "alpha_two_code": "MA",
+        "domains": [
+            "emi.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.enameknes.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole National d'Agriculture de Meknes",
+        "alpha_two_code": "MA",
+        "domains": [
+            "enameknes.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.esca.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole Sup\u00e9rieure de Commerce et des Affaires",
+        "alpha_two_code": "MA",
+        "domains": [
+            "esca.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.esta.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Ibn Zohr Agadir",
+        "alpha_two_code": "MA",
+        "domains": [
+            "esta.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.groupeiscae.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Institut Sup\u00e9rieur de Commerce et d'Administration des Entreprises",
+        "alpha_two_code": "MA",
+        "domains": [
+            "groupeiscae.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.hec.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole des Hautes Etudes Commerciales MAROC",
+        "alpha_two_code": "MA",
+        "domains": [
+            "hec.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.hem.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Institut des Hautes Etudes de Management",
+        "alpha_two_code": "MA",
+        "domains": [
+            "hem.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.hightech.edu/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole Sup\u00e9rieure d'Informatique et de Management",
+        "alpha_two_code": "MA",
+        "domains": [
+            "hightech.edu"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.iihem.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "International Institute for Higher Education",
+        "alpha_two_code": "MA",
+        "domains": [
+            "iihem.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.imbt.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Institute of Management and Business Technology",
+        "alpha_two_code": "MA",
+        "domains": [
+            "imbt.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.inpt.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Institut National des Postes et T\u00e9l\u00e9communications",
+        "alpha_two_code": "MA",
+        "domains": [
+            "inpt.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.isfort.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "ISFORT - Institut de Formation en Technologie Alimentaire",
+        "alpha_two_code": "MA",
+        "domains": [
+            "isfort.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.matci.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Institut Sup\u00e9rieur de Management et de Technologie (MATCI)",
+        "alpha_two_code": "MA",
+        "domains": [
+            "matci.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.rectorat-uh2c.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Hassan II - A\u00efn Chock",
+        "alpha_two_code": "MA",
+        "domains": [
+            "rectorat-uh2c.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.rumi.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Moulay Ismail Mekn\u00e8s",
+        "alpha_two_code": "MA",
+        "domains": [
+            "rumi.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.suptelecom.net.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Ecole Superieure des T\u00e9l\u00e9communications",
+        "alpha_two_code": "MA",
+        "domains": [
+            "suptelecom.net.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.uae.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Abdelmalek Essadi",
+        "alpha_two_code": "MA",
+        "domains": [
+            "uae.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.ucam.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Cadi Ayyad",
+        "alpha_two_code": "MA",
+        "domains": [
+            "ucam.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.ucd.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Chouaib Doukkali",
+        "alpha_two_code": "MA",
+        "domains": [
+            "ucd.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.uh1.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Hassan Ier - Settat",
+        "alpha_two_code": "MA",
+        "domains": [
+            "uh1.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.uh2m.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Hassan II - Mohammadia",
+        "alpha_two_code": "MA",
+        "domains": [
+            "uh2m.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.um5a.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Mohammed V - Agdal",
+        "alpha_two_code": "MA",
+        "domains": [
+            "um5a.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.um5s.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Mohammed V - Souissi",
+        "alpha_two_code": "MA",
+        "domains": [
+            "um5s.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.univ-ibntofail.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Ibn Toufail",
+        "alpha_two_code": "MA",
+        "domains": [
+            "univ-ibntofail.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.univ-oujda.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Mohammed Ier",
+        "alpha_two_code": "MA",
+        "domains": [
+            "univ-oujda.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.usmba.ac.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Sidi Mohammed Ben Abdellah",
+        "alpha_two_code": "MA",
+        "domains": [
+            "usmba.ac.ma"
+        ]
+    },
+    {
+        "state-province": null,
+        "web_pages": [
+            "http://www.ump.ma/"
+        ],
+        "country": "Morocco",
+        "name": "Universit\u00e9 Mohammed Premier Oujda",
+        "alpha_two_code": "MA",
+        "domains": [
+            "ump.ac.ma"
+        ]
+    }
+]
